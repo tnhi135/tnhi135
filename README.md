@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @tnhi135
-- 🌱 I’m currently learning AI track
-- 💞️ I’m looking to collaborate on this course
-- 📫 How to reach me by email thinguy21@student.oulu.fi
+
